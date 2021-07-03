@@ -1,0 +1,561 @@
+name,code,year,n
+China,CHN,1945,0
+China,CHN,1946,0
+China,CHN,1947,0
+China,CHN,1948,0
+China,CHN,1949,0
+China,CHN,1950,0
+China,CHN,1951,0
+China,CHN,1952,0
+China,CHN,1953,0
+China,CHN,1954,0
+China,CHN,1955,0
+China,CHN,1956,0
+China,CHN,1957,0
+China,CHN,1958,0
+China,CHN,1959,0
+China,CHN,1960,0
+China,CHN,1961,0
+China,CHN,1962,0
+China,CHN,1963,0
+China,CHN,1964,1
+China,CHN,1965,5
+China,CHN,1966,20
+China,CHN,1967,25
+China,CHN,1968,35
+China,CHN,1969,50
+China,CHN,1970,75
+China,CHN,1971,100
+China,CHN,1972,130
+China,CHN,1973,150
+China,CHN,1974,170
+China,CHN,1975,180
+China,CHN,1976,180
+China,CHN,1977,180
+China,CHN,1978,190
+China,CHN,1979,195
+China,CHN,1980,205
+China,CHN,1981,210
+China,CHN,1982,216
+China,CHN,1983,218
+China,CHN,1984,220
+China,CHN,1985,222
+China,CHN,1986,224
+China,CHN,1987,226
+China,CHN,1988,228
+China,CHN,1989,230
+China,CHN,1990,232
+China,CHN,1991,234
+China,CHN,1992,234
+China,CHN,1993,234
+China,CHN,1994,234
+China,CHN,1995,234
+China,CHN,1996,234
+China,CHN,1997,232
+China,CHN,1998,232
+China,CHN,1999,232
+China,CHN,2000,232
+China,CHN,2001,235
+China,CHN,2002,235
+China,CHN,2003,235
+China,CHN,2004,235
+China,CHN,2005,235
+China,CHN,2006,235
+China,CHN,2007,235
+China,CHN,2008,235
+China,CHN,2009,240
+China,CHN,2010,240
+China,CHN,2011,240
+China,CHN,2012,240
+China,CHN,2013,250
+China,CHN,2014,250
+Frankreich,FRA,1945,0
+Frankreich,FRA,1946,0
+Frankreich,FRA,1947,0
+Frankreich,FRA,1948,0
+Frankreich,FRA,1949,0
+Frankreich,FRA,1950,0
+Frankreich,FRA,1951,0
+Frankreich,FRA,1952,0
+Frankreich,FRA,1953,0
+Frankreich,FRA,1954,0
+Frankreich,FRA,1955,0
+Frankreich,FRA,1956,0
+Frankreich,FRA,1957,0
+Frankreich,FRA,1958,0
+Frankreich,FRA,1959,0
+Frankreich,FRA,1960,0
+Frankreich,FRA,1961,0
+Frankreich,FRA,1962,0
+Frankreich,FRA,1963,0
+Frankreich,FRA,1964,4
+Frankreich,FRA,1965,32
+Frankreich,FRA,1966,36
+Frankreich,FRA,1967,36
+Frankreich,FRA,1968,36
+Frankreich,FRA,1969,36
+Frankreich,FRA,1970,36
+Frankreich,FRA,1971,45
+Frankreich,FRA,1972,70
+Frankreich,FRA,1973,116
+Frankreich,FRA,1974,145
+Frankreich,FRA,1975,188
+Frankreich,FRA,1976,212
+Frankreich,FRA,1977,228
+Frankreich,FRA,1978,235
+Frankreich,FRA,1979,235
+Frankreich,FRA,1980,250
+Frankreich,FRA,1981,274
+Frankreich,FRA,1982,274
+Frankreich,FRA,1983,279
+Frankreich,FRA,1984,280
+Frankreich,FRA,1985,360
+Frankreich,FRA,1986,355
+Frankreich,FRA,1987,420
+Frankreich,FRA,1988,410
+Frankreich,FRA,1989,410
+Frankreich,FRA,1990,505
+Frankreich,FRA,1991,540
+Frankreich,FRA,1992,540
+Frankreich,FRA,1993,525
+Frankreich,FRA,1994,510
+Frankreich,FRA,1995,500
+Frankreich,FRA,1996,450
+Frankreich,FRA,1997,450
+Frankreich,FRA,1998,450
+Frankreich,FRA,1999,450
+Frankreich,FRA,2000,470
+Frankreich,FRA,2001,350
+Frankreich,FRA,2002,350
+Frankreich,FRA,2003,350
+Frankreich,FRA,2004,350
+Frankreich,FRA,2005,350
+Frankreich,FRA,2006,350
+Frankreich,FRA,2007,350
+Frankreich,FRA,2008,300
+Frankreich,FRA,2009,300
+Frankreich,FRA,2010,300
+Frankreich,FRA,2011,300
+Frankreich,FRA,2012,300
+Frankreich,FRA,2013,300
+Frankreich,FRA,2014,300
+Indien,IND,1945,0
+Indien,IND,1946,0
+Indien,IND,1947,0
+Indien,IND,1948,0
+Indien,IND,1949,0
+Indien,IND,1950,0
+Indien,IND,1951,0
+Indien,IND,1952,0
+Indien,IND,1953,0
+Indien,IND,1954,0
+Indien,IND,1955,0
+Indien,IND,1956,0
+Indien,IND,1957,0
+Indien,IND,1958,0
+Indien,IND,1959,0
+Indien,IND,1960,0
+Indien,IND,1961,0
+Indien,IND,1962,0
+Indien,IND,1963,0
+Indien,IND,1964,0
+Indien,IND,1965,0
+Indien,IND,1966,0
+Indien,IND,1967,0
+Indien,IND,1968,0
+Indien,IND,1969,0
+Indien,IND,1970,0
+Indien,IND,1971,0
+Indien,IND,1972,0
+Indien,IND,1973,0
+Indien,IND,1974,0
+Indien,IND,1975,0
+Indien,IND,1976,0
+Indien,IND,1977,0
+Indien,IND,1978,0
+Indien,IND,1979,0
+Indien,IND,1980,0
+Indien,IND,1981,0
+Indien,IND,1982,0
+Indien,IND,1983,0
+Indien,IND,1984,0
+Indien,IND,1985,0
+Indien,IND,1986,0
+Indien,IND,1987,0
+Indien,IND,1988,0
+Indien,IND,1989,0
+Indien,IND,1990,0
+Indien,IND,1991,0
+Indien,IND,1992,0
+Indien,IND,1993,0
+Indien,IND,1994,0
+Indien,IND,1995,0
+Indien,IND,1996,0
+Indien,IND,1997,0
+Indien,IND,1998,3
+Indien,IND,1999,8
+Indien,IND,2000,13
+Indien,IND,2001,18
+Indien,IND,2002,23
+Indien,IND,2003,28
+Indien,IND,2004,33
+Indien,IND,2005,38
+Indien,IND,2006,43
+Indien,IND,2007,50
+Indien,IND,2008,60
+Indien,IND,2009,70
+Indien,IND,2010,80
+Indien,IND,2011,90
+Indien,IND,2012,100
+Indien,IND,2013,110
+Indien,IND,2014,110
+Israel,ISR,1945,0
+Israel,ISR,1946,0
+Israel,ISR,1947,0
+Israel,ISR,1948,0
+Israel,ISR,1949,0
+Israel,ISR,1950,0
+Israel,ISR,1951,0
+Israel,ISR,1952,0
+Israel,ISR,1953,0
+Israel,ISR,1954,0
+Israel,ISR,1955,0
+Israel,ISR,1956,0
+Israel,ISR,1957,0
+Israel,ISR,1958,0
+Israel,ISR,1959,0
+Israel,ISR,1960,0
+Israel,ISR,1961,0
+Israel,ISR,1962,0
+Israel,ISR,1963,0
+Israel,ISR,1964,0
+Israel,ISR,1965,0
+Israel,ISR,1966,0
+Israel,ISR,1967,2
+Israel,ISR,1968,4
+Israel,ISR,1969,6
+Israel,ISR,1970,8
+Israel,ISR,1971,11
+Israel,ISR,1972,13
+Israel,ISR,1973,15
+Israel,ISR,1974,17
+Israel,ISR,1975,20
+Israel,ISR,1976,22
+Israel,ISR,1977,24
+Israel,ISR,1978,26
+Israel,ISR,1979,29
+Israel,ISR,1980,31
+Israel,ISR,1981,33
+Israel,ISR,1982,35
+Israel,ISR,1983,38
+Israel,ISR,1984,40
+Israel,ISR,1985,42
+Israel,ISR,1986,44
+Israel,ISR,1987,47
+Israel,ISR,1988,49
+Israel,ISR,1989,51
+Israel,ISR,1990,53
+Israel,ISR,1991,56
+Israel,ISR,1992,58
+Israel,ISR,1993,60
+Israel,ISR,1994,62
+Israel,ISR,1995,63
+Israel,ISR,1996,64
+Israel,ISR,1997,66
+Israel,ISR,1998,68
+Israel,ISR,1999,70
+Israel,ISR,2000,72
+Israel,ISR,2001,74
+Israel,ISR,2002,76
+Israel,ISR,2003,78
+Israel,ISR,2004,80
+Israel,ISR,2005,80
+Israel,ISR,2006,80
+Israel,ISR,2007,80
+Israel,ISR,2008,80
+Israel,ISR,2009,80
+Israel,ISR,2010,80
+Israel,ISR,2011,80
+Israel,ISR,2012,80
+Israel,ISR,2013,80
+Israel,ISR,2014,80
+Pakistan,PAK,1945,0
+Pakistan,PAK,1946,0
+Pakistan,PAK,1947,0
+Pakistan,PAK,1948,0
+Pakistan,PAK,1949,0
+Pakistan,PAK,1950,0
+Pakistan,PAK,1951,0
+Pakistan,PAK,1952,0
+Pakistan,PAK,1953,0
+Pakistan,PAK,1954,0
+Pakistan,PAK,1955,0
+Pakistan,PAK,1956,0
+Pakistan,PAK,1957,0
+Pakistan,PAK,1958,0
+Pakistan,PAK,1959,0
+Pakistan,PAK,1960,0
+Pakistan,PAK,1961,0
+Pakistan,PAK,1962,0
+Pakistan,PAK,1963,0
+Pakistan,PAK,1964,0
+Pakistan,PAK,1965,0
+Pakistan,PAK,1966,0
+Pakistan,PAK,1967,0
+Pakistan,PAK,1968,0
+Pakistan,PAK,1969,0
+Pakistan,PAK,1970,0
+Pakistan,PAK,1971,0
+Pakistan,PAK,1972,0
+Pakistan,PAK,1973,0
+Pakistan,PAK,1974,0
+Pakistan,PAK,1975,0
+Pakistan,PAK,1976,0
+Pakistan,PAK,1977,0
+Pakistan,PAK,1978,0
+Pakistan,PAK,1979,0
+Pakistan,PAK,1980,0
+Pakistan,PAK,1981,0
+Pakistan,PAK,1982,0
+Pakistan,PAK,1983,0
+Pakistan,PAK,1984,0
+Pakistan,PAK,1985,0
+Pakistan,PAK,1986,0
+Pakistan,PAK,1987,0
+Pakistan,PAK,1988,0
+Pakistan,PAK,1989,0
+Pakistan,PAK,1990,0
+Pakistan,PAK,1991,0
+Pakistan,PAK,1992,0
+Pakistan,PAK,1993,0
+Pakistan,PAK,1994,0
+Pakistan,PAK,1995,0
+Pakistan,PAK,1996,0
+Pakistan,PAK,1997,0
+Pakistan,PAK,1998,2
+Pakistan,PAK,1999,8
+Pakistan,PAK,2000,14
+Pakistan,PAK,2001,20
+Pakistan,PAK,2002,26
+Pakistan,PAK,2003,32
+Pakistan,PAK,2004,38
+Pakistan,PAK,2005,44
+Pakistan,PAK,2006,50
+Pakistan,PAK,2007,60
+Pakistan,PAK,2008,70
+Pakistan,PAK,2009,80
+Pakistan,PAK,2010,90
+Pakistan,PAK,2011,100
+Pakistan,PAK,2012,110
+Pakistan,PAK,2013,120
+Pakistan,PAK,2014,120
+Russland,RUS,1945,0
+Russland,RUS,1946,0
+Russland,RUS,1947,0
+Russland,RUS,1948,0
+Russland,RUS,1949,1
+Russland,RUS,1950,5
+Russland,RUS,1951,25
+Russland,RUS,1952,50
+Russland,RUS,1953,120
+Russland,RUS,1954,150
+Russland,RUS,1955,200
+Russland,RUS,1956,426
+Russland,RUS,1957,660
+Russland,RUS,1958,863
+Russland,RUS,1959,1048
+Russland,RUS,1960,1627
+Russland,RUS,1961,2492
+Russland,RUS,1962,3346
+Russland,RUS,1963,4259
+Russland,RUS,1964,5242
+Russland,RUS,1965,6144
+Russland,RUS,1966,7091
+Russland,RUS,1967,8400
+Russland,RUS,1968,9490
+Russland,RUS,1969,10671
+Russland,RUS,1970,11736
+Russland,RUS,1971,13279
+Russland,RUS,1972,14600
+Russland,RUS,1973,15878
+Russland,RUS,1974,17286
+Russland,RUS,1975,19235
+Russland,RUS,1976,22165
+Russland,RUS,1977,24281
+Russland,RUS,1978,26169
+Russland,RUS,1979,28258
+Russland,RUS,1980,30665
+Russland,RUS,1981,32146
+Russland,RUS,1982,33486
+Russland,RUS,1983,35130
+Russland,RUS,1984,36825
+Russland,RUS,1985,38582
+Russland,RUS,1986,40159
+Russland,RUS,1987,38107
+Russland,RUS,1988,36538
+Russland,RUS,1989,35078
+Russland,RUS,1990,32980
+Russland,RUS,1991,29154
+Russland,RUS,1992,26734
+Russland,RUS,1993,24403
+Russland,RUS,1994,21339
+Russland,RUS,1995,18179
+Russland,RUS,1996,15942
+Russland,RUS,1997,15442
+Russland,RUS,1998,14368
+Russland,RUS,1999,13188
+Russland,RUS,2000,12188
+Russland,RUS,2001,11152
+Russland,RUS,2002,10114
+Russland,RUS,2003,9076
+Russland,RUS,2004,8038
+Russland,RUS,2005,7000
+Russland,RUS,2006,6643
+Russland,RUS,2007,6286
+Russland,RUS,2008,5929
+Russland,RUS,2009,5527
+Russland,RUS,2010,5215
+Russland,RUS,2011,4858
+Russland,RUS,2012,4500
+Russland,RUS,2013,4480
+Russland,RUS,2014,4300
+Vereinigtes Königreich,GBR,1945,0
+Vereinigtes Königreich,GBR,1946,0
+Vereinigtes Königreich,GBR,1947,0
+Vereinigtes Königreich,GBR,1948,0
+Vereinigtes Königreich,GBR,1949,0
+Vereinigtes Königreich,GBR,1950,0
+Vereinigtes Königreich,GBR,1951,0
+Vereinigtes Königreich,GBR,1952,0
+Vereinigtes Königreich,GBR,1953,1
+Vereinigtes Königreich,GBR,1954,5
+Vereinigtes Königreich,GBR,1955,10
+Vereinigtes Königreich,GBR,1956,50
+Vereinigtes Königreich,GBR,1957,58
+Vereinigtes Königreich,GBR,1958,60
+Vereinigtes Königreich,GBR,1959,78
+Vereinigtes Königreich,GBR,1960,105
+Vereinigtes Königreich,GBR,1961,155
+Vereinigtes Königreich,GBR,1962,211
+Vereinigtes Königreich,GBR,1963,256
+Vereinigtes Königreich,GBR,1964,271
+Vereinigtes Königreich,GBR,1965,271
+Vereinigtes Königreich,GBR,1966,281
+Vereinigtes Königreich,GBR,1967,355
+Vereinigtes Königreich,GBR,1968,317
+Vereinigtes Königreich,GBR,1969,306
+Vereinigtes Königreich,GBR,1970,375
+Vereinigtes Königreich,GBR,1971,412
+Vereinigtes Königreich,GBR,1972,423
+Vereinigtes Königreich,GBR,1973,500
+Vereinigtes Königreich,GBR,1974,500
+Vereinigtes Königreich,GBR,1975,500
+Vereinigtes Königreich,GBR,1976,500
+Vereinigtes Königreich,GBR,1977,500
+Vereinigtes Königreich,GBR,1978,500
+Vereinigtes Königreich,GBR,1979,500
+Vereinigtes Königreich,GBR,1980,500
+Vereinigtes Königreich,GBR,1981,500
+Vereinigtes Königreich,GBR,1982,385
+Vereinigtes Königreich,GBR,1983,380
+Vereinigtes Königreich,GBR,1984,350
+Vereinigtes Königreich,GBR,1985,350
+Vereinigtes Königreich,GBR,1986,350
+Vereinigtes Königreich,GBR,1987,350
+Vereinigtes Königreich,GBR,1988,350
+Vereinigtes Königreich,GBR,1989,350
+Vereinigtes Königreich,GBR,1990,350
+Vereinigtes Königreich,GBR,1991,350
+Vereinigtes Königreich,GBR,1992,250
+Vereinigtes Königreich,GBR,1993,250
+Vereinigtes Königreich,GBR,1994,250
+Vereinigtes Königreich,GBR,1995,234
+Vereinigtes Königreich,GBR,1996,203
+Vereinigtes Königreich,GBR,1997,203
+Vereinigtes Königreich,GBR,1998,240
+Vereinigtes Königreich,GBR,1999,240
+Vereinigtes Königreich,GBR,2000,280
+Vereinigtes Königreich,GBR,2001,280
+Vereinigtes Königreich,GBR,2002,280
+Vereinigtes Königreich,GBR,2003,280
+Vereinigtes Königreich,GBR,2004,280
+Vereinigtes Königreich,GBR,2005,280
+Vereinigtes Königreich,GBR,2006,225
+Vereinigtes Königreich,GBR,2007,225
+Vereinigtes Königreich,GBR,2008,225
+Vereinigtes Königreich,GBR,2009,225
+Vereinigtes Königreich,GBR,2010,225
+Vereinigtes Königreich,GBR,2011,225
+Vereinigtes Königreich,GBR,2012,225
+Vereinigtes Königreich,GBR,2013,225
+Vereinigtes Königreich,GBR,2014,225
+USA,USA,1945,2
+USA,USA,1946,9
+USA,USA,1947,13
+USA,USA,1948,50
+USA,USA,1949,170
+USA,USA,1950,299
+USA,USA,1951,438
+USA,USA,1952,841
+USA,USA,1953,1169
+USA,USA,1954,1703
+USA,USA,1955,2422
+USA,USA,1956,3692
+USA,USA,1957,5543
+USA,USA,1958,7345
+USA,USA,1959,12298
+USA,USA,1960,18638
+USA,USA,1961,22229
+USA,USA,1962,25540
+USA,USA,1963,28133
+USA,USA,1964,29463
+USA,USA,1965,31139
+USA,USA,1966,31175
+USA,USA,1967,31255
+USA,USA,1968,29561
+USA,USA,1969,27552
+USA,USA,1970,26008
+USA,USA,1971,25830
+USA,USA,1972,26516
+USA,USA,1973,27835
+USA,USA,1974,28537
+USA,USA,1975,27519
+USA,USA,1976,25914
+USA,USA,1977,25542
+USA,USA,1978,24418
+USA,USA,1979,24138
+USA,USA,1980,24104
+USA,USA,1981,23208
+USA,USA,1982,22886
+USA,USA,1983,23305
+USA,USA,1984,23459
+USA,USA,1985,23368
+USA,USA,1986,23317
+USA,USA,1987,23575
+USA,USA,1988,23205
+USA,USA,1989,22217
+USA,USA,1990,21392
+USA,USA,1991,19008
+USA,USA,1992,13708
+USA,USA,1993,11511
+USA,USA,1994,10979
+USA,USA,1995,10904
+USA,USA,1996,11011
+USA,USA,1997,10903
+USA,USA,1998,10732
+USA,USA,1999,10685
+USA,USA,2000,10577
+USA,USA,2001,10526
+USA,USA,2002,10457
+USA,USA,2003,10027
+USA,USA,2004,8570
+USA,USA,2005,8360
+USA,USA,2006,7853
+USA,USA,2007,5709
+USA,USA,2008,5273
+USA,USA,2009,5113
+USA,USA,2010,4950
+USA,USA,2011,4763
+USA,USA,2012,4680
+USA,USA,2013,4650
+USA,USA,2014,4760
